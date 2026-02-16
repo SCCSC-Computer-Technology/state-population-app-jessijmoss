@@ -1,0 +1,14 @@
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\bin\Debug\JMossCPT206StateDB_New.mdf
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\bin\Debug\JMossCPT206StateDB_New_log.ldf
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\bin\Debug\JMossCPT206Lab2pt2.exe.config
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\bin\Debug\JMossCPT206Lab2pt2.exe
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\bin\Debug\JMossCPT206Lab2pt2.pdb
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.csproj.AssemblyReference.cache
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.Form1.resources
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.Properties.Resources.resources
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.csproj.GenerateResource.cache
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.csproj.CoreCompileInputs.cache
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.exe
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.pdb
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.AllStatesForm.resources
+C:\Users\jessj\source\repos\JMossCPT206Lab2pt2\JMossCPT206Lab2pt2\obj\Debug\JMossCPT206Lab2pt2.SelectedStateForm.resources
