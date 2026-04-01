@@ -1,0 +1,27 @@
+Heinrich Gottberg Code Review of Jessi M's Lab 4
+
+This lab was the addition of the 'State Class Library' 
+to the State Population App for Lab 3.
+
+This code review will be documenting three things:
+
+1. Does the State Population App have a Class Library?
+
+   a. No, I do not see the class library. If it is there, then it is not 
+      clearly displayed in the solution.
+
+2. Is the Class Library utilized in the program correctly?
+
+   a. The program runs using table adapters, so no, but the project
+      is still functional.
+
+3. Does the Class Library have all the correct variables/data values?
+
+   a. No, but they could be.
+
+	
+Overall Review
+		
+		The project looks great, just needs the class library!
+
+		Good work.
